@@ -1,1 +1,0 @@
-{"version":3,"file":"TestHttp.class.js","sourceRoot":"","sources":["../../src/demo/TestHttp.class.ts"],"names":[],"mappings":"AAAA,OAAO,CAAC,GAAG,CAAC,UAAU,CAAC,CAAC","sourcesContent":["console.log(__filename);"]}
