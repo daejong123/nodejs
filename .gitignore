@@ -1,0 +1,7 @@
+node_modules
+app
+out
+logs
+*.log
+.idea
+.DS_Store
