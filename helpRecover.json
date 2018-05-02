@@ -1,0 +1,2777 @@
+[
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522128435817
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522128599289
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522129132721
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522129189375
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170131"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522129207234
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522129207930
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522732306089
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522732307146
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522732307753
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522732385236
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522732387069
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522732432068
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170109,20170108"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522732435532
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170109,20170108"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522732543018
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522732622779
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522732631013
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522732629855
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522732631207
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522732669519
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522732671656
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522732673562
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522732687479
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522732856332
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170109,20170108"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522732860028
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170109,20170108"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522732882408
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522732917214
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522732926028
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170109,20170108"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522733085395
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1522733086356
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733086174
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733093863
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733168542
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733171728
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522733174681
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1522733175783
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733324718
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733325839
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522733326607
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733341520
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170119"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        3
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733358420
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170119"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733467333
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733468612
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522733469900
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 4
+      },
+      "timestamp": 1522733473168
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1522733474308
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733563055
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733564054
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522733565124
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733703352
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522733704181
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733704824
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1522733705868
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 4
+      },
+      "timestamp": 1522733706757
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522733710635
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1522733711508
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733740415
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733742039
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1522733744407
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1522733745223
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733840503
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733842562
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170114,20170103"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733843604
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170109,20170108"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1522733927665
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1522733929601
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523336775232
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523336775999
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523336776941
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523336778031
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523336806757
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523336808390
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523336856170
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523336857329
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523336858866
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523336859849
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337014551
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523337111205
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337125328
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337129965
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131,20170116"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523337134997
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131,20170116"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523337135709
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131,20170116"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523337137213
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131,20170116"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523337141638
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523337189509
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337256487
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170109,20170108"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337309723
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170121,20170119"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523337349763
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170121,20170119"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523337361010
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170121,20170119"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523337366125
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170121,20170119"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523337382598
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523337387002
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170113,20170106,20170104"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337427833
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337565175
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523337566097
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523337567247
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523337568097
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337585706
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523337587706
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337894741
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131,20170116"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523337895477
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131,20170116"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523337896119
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131,20170116"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523337897277
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170131,20170116"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523337898127
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523337899031
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523337899823
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523337901134
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523338092123
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523338098475
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523338099459
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523338213232
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523338214195
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523338215178
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523338346068
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523338452794
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523338455128
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523338457327
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523338458809
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523338478758
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        2
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523338479414
+    },
+    "course_name": "任务2：双足机器人基础任务（一）",
+    "student_ids": "20170130,20170117"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523338521042
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523338521897
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523338523345
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523338524320
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523338565288
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523338576351
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523338586905
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170107,20170101"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523338594888
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523338596480
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 4
+      },
+      "timestamp": 1523338598744
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523338616134
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170107,20170101"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523338618999
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170107,20170101"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523338620829
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170107,20170101"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523338922039
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523338923054
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523338923938
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523338925025
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523339061033
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523339061833
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523339062962
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523339063834
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523339112544
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523941422953
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170107,20170101"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523941445495
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523941446441
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523941447304
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        1,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523941448424
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523941653553
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523941654311
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523941655406
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523941656823
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 4
+      },
+      "timestamp": 1523941657839
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 5
+      },
+      "timestamp": 1523941659398
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170129,20170122"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523941823104
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523941823736
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523941824336
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523941825145
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 4
+      },
+      "timestamp": 1523941827335
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170128,20170111"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523941873839
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523941875194
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523941877139
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523941878153
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 4
+      },
+      "timestamp": 1523941879267
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 5
+      },
+      "timestamp": 1523941881107
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523942066853
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523942163709
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523942244485
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523942316152
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170102"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523942659016
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523942659977
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523942661064
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523942661841
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 4
+      },
+      "timestamp": 1523942666159
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523942765973
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523942845906
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523942849983
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523942897918
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523943360552
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523943361806
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        2,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 4
+      },
+      "timestamp": 1523943362940
+    },
+    "course_name": "任务3：双足机器人基础任务（二）",
+    "student_ids": "20170125,20170123"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        1
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523943452307
+    },
+    "course_name": "任务6：迷宫基础任务（一）",
+    "student_ids": "20170124,20170118"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 0
+      },
+      "timestamp": 1523943655322
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 1
+      },
+      "timestamp": 1523943658638
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 2
+      },
+      "timestamp": 1523943660467
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 3
+      },
+      "timestamp": 1523943663000
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 4
+      },
+      "timestamp": 1523943665085
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  },
+  {
+    "data": {
+      "location": [
+        0,
+        0
+      ],
+      "data": {
+        "event": "open_help",
+        "data": 5
+      },
+      "timestamp": 1523943666805
+    },
+    "course_name": "任务4：双足机器人程序设计",
+    "student_ids": "20170127,20170126"
+  }
+]
