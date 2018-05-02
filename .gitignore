@@ -1,8 +1,21 @@
+# node package
 node_modules/
+
+# application
 app/
+
+# out
 out/
+
+# log
 logs/
 *.log
+
+# idea
 .idea
+
+# vscode
 .DS_Store
-.txt
+
+# txt文件
+*.txt
