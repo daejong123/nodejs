@@ -24,7 +24,6 @@ fs.readFile(hello_path,(err, data) => {
 console.log('readFile是异步的哦');
 
 
-
 // 同步读文件
 let data = fs.readFileSync(hello_path);
 console.log("readFileSync" + data.toString());
@@ -81,3 +80,24 @@ fs.exists(hello_path1, exists=>{
   * existsSync
   * 
   */
+
+
+try {
+    fs.readFile('/some/file/that/does-not-exist', (err, data) => {
+        // mistaken assumption: throwing here...
+        if (err) {
+            throw err;
+        }
+    });
+} catch (err) {
+    // This will not catch the throw!
+    console.error(err);
+}
+
+try {
+    let err = new Error("主动抛错");
+    throw err;
+} catch (err) {
+    console.error(err.message);
+}
+
